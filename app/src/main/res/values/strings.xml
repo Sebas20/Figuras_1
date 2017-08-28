@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Figuras_1</string>
+    <string name="figuras">FIGURAS GEOMÉTRICAS</string>
+    <string name="circulo">CIRCULO</string>
+    <string name="cuadrado">CUADRADO</string>
+    <string name="triangulo">TRIANGULO</string>
+    <string name="cubo">CUBO</string>
+    <string name="area">ÁREA:</string>
+    <string name="perimetro">PERÍMETRO:</string>
+    <string name="volumen">VOLUMEN:</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="salir">SALIR</string>
+    <string name="lado_1">LADO_1</string>
+    <string name="altura">Altura</string>
+    <string name="base">Base</string>
+    <string name="lado_2">Lado_2</string>
+</resources>
